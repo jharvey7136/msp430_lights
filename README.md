@@ -15,7 +15,17 @@ $ setc g 25
 $ setc b 72
 ```
 ### Install Notes
-1. Clone repo with git 
+1. Clone repo with git `git clone https://github.com/jharvey7136/msp430_lights.git`
+2. Connect msp430 to computer
+3. Navigate to app's root directory
+4. Compile program with command: `make`
+5. Flash compiled .elf file to msp430: `make flash`
+6. Run with command: `make screen`
+
+
+
+
+
 
 
 
